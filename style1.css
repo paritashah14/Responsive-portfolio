@@ -1,0 +1,148 @@
+/** Entire page background image**/
+body{
+	width:960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+nav {
+    background-color: white;
+    float: right;
+    color: #4aaaa5;
+    font: Times;
+    display: inline;
+    width:100%
+
+}
+
+/** my name**/
+#logo{
+	background-color:#4aaaa5;
+	color:white;
+	font:times;
+	overflow:auto;
+	clear:both;
+	float:left;
+	font-size:40px;
+
+
+}
+
+#profpic {
+    height: 150px;
+    width: auto;
+    border-radius: 80%;
+    float:left;
+
+}
+#headline-area{
+	color:teal;
+	font:Times;
+
+}
+#paragraph{
+	color:black;
+	font:arial;
+	float:left;
+	width:75%;
+
+}
+body {
+    background-image: url("https://cloud.githubusercontent.com/assets/26077051/24317828/763f6e42-10d2-11e7-9fbf-11a314efede3.png")
+}
+
+
+footer {
+    color: #FFFFFF;
+    background: #666666;
+    clear: both;
+    line-height: : 3.5;
+    text-align: center;
+    width: 100%;
+    align-self: flex-end;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    border-top-style: solid;
+    border-width: 10px;
+    border-color: #4aaaa5
+}
+
+
+/**page link for 3pages about.contct,portfolio**/
+
+ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+   
+}
+
+li {
+    display: inline-block;
+    float: right;
+    
+   
+}
+
+li a {
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+/**pargraph**/
+
+ #paragraph{
+
+    font color: #777777;
+    font: Arial;
+    width:50%;
+}
+
+
+/** sidebar menu for social media connect site**/
+
+.text-widget {
+    opacity: 0.8;
+    float: right;
+    padding-top: 5px;
+    margin: 0px;
+    background-color: white;
+    display: inline-block;
+    border-width: : 3px;
+    border-color:teal;
+    width: 250px;
+    box-shadow: none;
+    max-width: none;
+    border-style: solid;
+ }
+
+ a{
+ 	float:left;
+
+ }
+
+
+ul a img {
+    width: 32px;
+    height: 32px;
+
+}
+
+.portfolio-images{
+	width:0px;
+	height:20px;
+	display:block;
+}
+
+.icon{
+	width:50px;
+	height: 50px;
+}
+
